@@ -1,0 +1,12 @@
+opt-out: true
+tc.general.tag: '&6&l[&b&lTeamChat&6&l]'
+tc.general.kick-offline-players: true
+tc.general.global-chat: '@'
+tc.general.no-permissions: '&4Sry, you do not have enough permission to use this command.'
+tc.join.chat.message: '&3 The Player &6%sender% &3joined the TeamChat.'
+tc.join.player.message: '&3 You are joined the TeamChat successfully.'
+tc.leave.chat.message: '&3 The Player &6%sender% &3leave the TeamChat.'
+tc.leave.chat.kick: '&3 The Player &6%player% &3was kicked from the TeamChat.'
+tc.leave.player.message: '&3 You are leave the TeamChat successfully.'
+tc.leave.player.kick: '&3 You are kicked from the TeamChat.'
+tc.message.syntax: '&6 %sender%: &3%message%'

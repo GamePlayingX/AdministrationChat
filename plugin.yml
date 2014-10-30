@@ -1,0 +1,14 @@
+name: TeamChat2
+author: gameplayingx
+version: 0.3
+main: de.gameplayingx.TeamChat2.Main
+
+commands:
+     tc:
+          description: TeamChat
+          usage: /<command>
+          default: op
+     teamchat: 
+          description: TeamChat
+          usage: /<command>
+          default: op
